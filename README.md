@@ -7,3 +7,4 @@
 * [OBJECT\_DETECTION](https://drive.google.com/file/d/1cExlS-1mPC9IvdzBWcBPDUyv72fIjtlM/view?usp=drive_link)
 
 * [WEEK 03_Task 01](https://drive.google.com/file/d/1hqgABjRUYcGPHSHhzkRCKPmqN4fr4qqp/view?usp=drive_link) 
+[WEEK 03_TASK 02](https://drive.google.com/file/d/1X0Cxy2Mbh_rh_puafZt55m90oqdErZR2/view?usp=sharing) 
